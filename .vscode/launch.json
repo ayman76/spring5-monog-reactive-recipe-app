@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Spring5MongoRecipeAppApplication<spring5-mongo-recipe-app-correcting-app-defects>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "guru.springframework.Spring5MongoRecipeAppApplication",
+            "projectName": "spring5-mongo-recipe-app-correcting-app-defects",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
